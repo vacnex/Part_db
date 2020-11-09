@@ -1,0 +1,19 @@
+{
+  "Intel® Celeron® G5925": {
+        "mName": "Intel® Celeron® G5925",
+        "mCodeName": "Comet Lake",
+        "mLittho": "14 nm",
+        "mNumCores": "2",
+        "mNumThreads": "2",
+        "mBaseF": "3.60 Ghz",
+        "mTurboF": "None",
+        "mCache": "4 MB",
+        "mTdp": "58 W",
+        "mMaxMem": "128 GB",
+        "mMemType": "DDR4-2666",
+        "mGraphic": "Intel® UHD Graphics 610",
+        "mSocket": "FCLGA1200",
+        "mOtherTech": "None",
+        "mPrice": "$488 - $499"
+        }
+}
